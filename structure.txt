@@ -1,0 +1,13 @@
+rank = Field()  # 排名 1
+title = Field()  # 电影名 1 
+link = Field()  # 各个电影的子链接 1
+rate = Field()  # 评分  1
+quote = Field()  # 一句名言 1 
+reviewnum = Field()  # 评价人数 1
+director = Field()  # 导演 
+classification = Field()  # 电影分类 
+year = Field()  # 上映年份
+country = Field  # 国家
+maincharacter = Field  # 主演
+maincontent = Field  # 内容简介
+[{rank:,title:,link:,rate:,quote:,reviewnum:,director:,classification:,year:,country:,maincharacter:,maincontent:},{}...]
